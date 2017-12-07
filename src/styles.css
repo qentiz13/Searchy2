@@ -2,13 +2,13 @@
 @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
 
 html {
-    height: 100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background: rgb(66, 85, 61); /* Old browsers */
-    background-attachment: fixed;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: rgb(66, 85, 61); /* Old browsers */
+  background-attachment: fixed;
 }
 
 body{
